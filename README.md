@@ -1,0 +1,4 @@
+- 👋 Oi, eu sou o Murilo
+- 👀 Estou interessado em terminar o colégio
+- 🌱 Atualmente estou tendo aulas de Análise e Projeto de Sistemas
+- 📫 Meu email está no meu perfil
